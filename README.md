@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available here : 
-    [https://www.cuej.info/mini-sites/religion/](https://www.cuej.info/mini-sites/religion/)
-    [https://itinerart.huot.etu.mmi-unistra.fr/](https://itinerart.huot.etu.mmi-unistra.fr/)
-    [https://eau.huot.etu.mmi-unistra.fr/](https://eau.huot.etu.mmi-unistra.fr/)
+    <br> [https://www.cuej.info/mini-sites/religion/](https://www.cuej.info/mini-sites/religion/)
+    <br> [https://itinerart.huot.etu.mmi-unistra.fr/](https://itinerart.huot.etu.mmi-unistra.fr/)
+    <br> [https://eau.huot.etu.mmi-unistra.fr/](https://eau.huot.etu.mmi-unistra.fr/)
 
 - 📫 How to reach me **huot.anthony03@gmail.com**
 
