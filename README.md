@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-- 🔭 I’m currently working on a side project for the technical college of Haguenau
+- 🔭 Freshly diplomed form the technical college of Haguenau ! (BUT MMI)
 
 - 🌱 I’m currently learning **Java**
 
